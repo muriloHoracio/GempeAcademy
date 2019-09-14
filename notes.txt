@@ -30,3 +30,7 @@ boas práticas
 
 versionamento do código Github
 
+
+npm install -g gitignore
+gitignore -types
+gitignore Node
