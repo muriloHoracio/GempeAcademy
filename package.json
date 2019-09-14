@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "eslint": "./node_modules/.bin/eslint src/*.js"
+    "lint": "./node_modules/.bin/eslint src/*.js"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run eslint",
-      "pre-push": "npm run eslint"
+      "pre-commit": "npm run lint",
+      "pre-push": "npm run lint",
+      "...": "..."
     }
   },
   "author": "Murilo H P Cruz <murilo.horacio@gmail.com>",
