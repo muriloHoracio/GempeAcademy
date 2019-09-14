@@ -1,0 +1,32 @@
+clean code
+MVP = minimo produto viável (core do aplicativo)
+pp:
+	ordenação
+	sistematizar
+	limpeza
+	padronização
+	disciplina
+
+importância dos nomes
+	branches
+	funções
+	variáveis
+	arquivos
+	etc...
+
+nome das variáveis é realmente importante. nomes de variáveis ajudam a deixar o códio auto explicável
+não é recomendado abreviar os nomes
+não escreva códigos para agradar os interpretadores e/ou compiladores, mas sim para agradar humanos.
+
+
+
+
+
+boas práticas
+
+-styleguide:
+	criada ou usada
+-hooks no Git
+
+versionamento do código Github
+
